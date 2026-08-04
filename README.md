@@ -16,7 +16,8 @@ An autonomous maze-solving robot built for the **e-Yantra Robotics Competition (
 
 ### 📸 Preview
 
-> *(Add photos/GIFs of the robot here!)*
+> <img width="900" height="1600" alt="side_view" src="https://github.com/user-attachments/assets/815a98e1-bccc-426f-bbf3-0987e0625088" />
+
 
 ### 📹 Demo
 
